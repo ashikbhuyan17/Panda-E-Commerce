@@ -1,0 +1,39 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg .carousel-item {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+
+
+/* .carousel-item{
+    padding-top: 10px;
+}
+.carousel-item1{
+    padding: 100px;
+} */
+
+.panda-card{
+    border: 0px;
+    border-radius: 15px
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0px;
+    margin-bottom: 10px;
+}
+.btn-col{
+    background-color: #FF3082;
+    
+}
+
+.categories img{
+    width: 100px;
+}
+
+
+#subscribe{
+    background-color:#FCEAE8;
+}
